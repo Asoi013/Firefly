@@ -71,17 +71,17 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 是否允许用户通过控制面板切换横幅标题显示
 			switchable: true,
 			// 主页横幅主标题
-			title: "Lovely firefly!",
+			title: "拾荒人间",
 			// 主页横幅主标题字体大小
 			titleSize: "3.8rem",
 			// 主页横幅副标题
 			subtitle: [
-				"In Reddened Chrysalis, I Once Rest",
-				"From Shattered Sky, I Free Fall",
-				"Amidst Silenced Stars, I Deep Sleep",
-				"Upon Lighted Fyrefly, I Soon Gaze",
-				"From Undreamt Night, I Thence Shine",
-				"In Finalized Morrow, I Full Bloom",
+				"世上只有一种英雄主义，就是在认清生活真相之后依然热爱生活。 ",
+				"人生一如凝望着无言的风景，总是说不清楚的感觉最扎人。",
+				"凡我所失，皆非我所有；凡我所求，皆受其所困；万物皆为我所用，而非我所属。大道至简，无欲则刚；无为则无所不为。",
+				"物质皆为浮沉，生命终会消散，爱情才是永恒。",
+				"本是青灯不归客，却因浊酒恋红尘。星光不问赶路人，岁月不负有心人。",
+				"把经历，写成属于你的故事。",
 			],
 			// 主页横幅副标题字体大小
 			subtitleSize: "1.5rem",
@@ -102,9 +102,9 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 		credit: {
 			enable: {
 				// 桌面端显示横幅图片来源文本
-				desktop: true,
+				desktop: false,
 				// 移动端显示横幅图片来源文本
-				mobile: true,
+				mobile: false,
 			},
 			text: {
 				// 桌面端要显示的来源文本
