@@ -1,20 +1,12 @@
 ---
+
 title: 导航
-date: 2026-03-28T00:38:38Z
-lastmod: 2026-04-04T01:15:59Z
----
-
-# 导航
-
----
-
-title: 导航  
-author: Asoi  
-published: 2025-01-01  
-description: 这是文章的简短描述  
-image: api  
-tags: [ 未分类]  
-category: 未分类  
+author: Asoi
+published: 2026-04-04
+description: 这是文章的简短描述
+image: api
+tags: [ 未分类]
+category: 未分类
 draft: false
 
 ---
